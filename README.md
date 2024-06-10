@@ -10,6 +10,11 @@ Brave Knight é um jogo de aventura em texto onde você assume o papel de um bra
 - **Sistema de Vida**: Gerencie a vida do seu personagem enquanto enfrenta desafios.
 - **Interação com NPCs**: Interaja com NPCs que oferecem desafios, enigmas e negociações.
 
+## Requisitos
+
+- **Sistema Operacional**: Desenvolvido e testado no Windows 11. Algumas funcionalidades podem precisar de ajustes para funcionar em outros sistemas operacionais.
+- **Compilador**: g++ (ou qualquer outro compilador de C++ compatível).
+
 ## Como Jogar
 
 1. **Compilação**: Para compilar o jogo, use um compilador de C. No terminal, navegue até o diretório do projeto e execute:
